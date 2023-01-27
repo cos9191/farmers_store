@@ -1,0 +1,21 @@
+export const defaultTheme = {
+  colorFontBlack: "#333333",
+  colorWhite: "#ffffff",
+  colorGray: "#f6f6f6",
+  colorBgGray: "#f7f7f7",
+  colorBgBlue: "#D8ECFE",
+  colorBgGreen: "#E1EDCE",
+  colorBgRed: "#F8DDD7",
+  colorBgTabSelected: "#88aa4d",
+  colorCardHeaderBg: "#88aa4d",
+  colorCardHeaderBgNegative: "#f75531",
+  colorBtn: "#FC9B27",
+  colorBtnHover: "#FC7427",
+  pagePadding: "90px",
+  indent: "20px",
+  fontFamily: '"inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  footerHeight: "80px",
+  headerHeight: "80px",
+  pageWidth: "1280px"
+};
